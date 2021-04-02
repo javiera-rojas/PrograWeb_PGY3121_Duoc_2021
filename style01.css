@@ -1,5 +1,93 @@
-h1{
-    color: tomato;
-    text-decoration: underline;
-    text-align: center;
+body{
+    height: 100%;
+    background-color: #272727;
+    margin: 0%;
+    padding: 0%;
+}
+#menu{
+    border: black;
+    border-style: outset;
+    border-width: 1px;
+    width: 19.5%;
+    float: left;
+    min-height: 100%;
+    
+}
+.ini{
+    color: #ffffff;
+    line-height: 0%;
+    font-family: sans-serif;
+}
+.ini:hover{
+    color: dimgray;
+}
+.nos{
+    color: #ffffff;
+    line-height: 0%;
+    font-family: sans-serif;
+}
+.nos:hover{
+    color: dimgray;
+}
+
+.per{
+    color: #ffffff;
+    line-height: 0%;
+    font-family: sans-serif;
+}
+.per:hover{
+    color: dimgray;
+}
+.gat{
+    color: #ffffff;
+    line-height: 0%;
+    font-family: sans-serif;
+}
+.gat:hover{
+    color: dimgray;
+}
+.cont{
+    color: #ffffff;
+    line-height: 0%;
+    font-family: sans-serif;
+}
+.cont:hover{
+    color: dimgray;
+}
+h2{
+    color: white;
+    font-family: sans-serif;    
+}
+p{
+    color: white;
+    font-family: sans-serif;
+}
+#bloques{
+    display: block;
+    width: 80%;
+    float: right;  
+}
+#bloqueAzul{
+    background-color: aqua;    
+    width: 70%;
+ 
+}
+#bloqueAmarillo{
+    background-color: gold;    
+    width: 70%;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+#bloqueNaranja{
+    background-color: darkorange;    
+    width: 70%;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+#bloqueRojo{
+    background-color:red;   
+    width: 70%;
+    padding-left: 150px;
+    padding-right: 150px;
 }

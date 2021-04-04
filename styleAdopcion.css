@@ -1,0 +1,46 @@
+#Adopta{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 70px;
+}
+#Adop{
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: left;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+#img1{
+    width: 250px;
+    margin-right: 50px;
+}
+#img2{
+    width: 250px;
+    margin-right: 50px;
+}
+#img3{
+    width: 250px;
+    margin-right: 50px;
+}
+#animalitos{
+    margin-top: 50px;
+    margin-left: 450px;
+}
+#listaAnimalitos{
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#volverCont{
+    width: 100%;
+    text-align: right;
+}
+#volver{
+    
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: bold;
+}
